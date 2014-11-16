@@ -1,0 +1,43 @@
+/* Full Page */
+.container{
+  width: 100%;
+}
+
+/* Navbar region */
+.top-nav-collapse{
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* Intro region */
+.my-brand-heading{
+  font-size: 60px;
+}
+
+.my-intro-body{
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* About me region */
+.ketan-container{
+  background: url(../img/intro-bg.jpeg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+/* About me region */
+.tech-stack-section{
+  background: url(../img/intro-bg.jpeg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;  
+}
+
+/* Contact region */
+.contact-section{
+  padding-bottom: 275px;
+}
